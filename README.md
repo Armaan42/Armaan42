@@ -7,6 +7,7 @@
 <!-- - 🌱 I’m currently learning **Data Science, Machine Learning, Java** -->
 
 - 📝 I regularly write articles on [https://medium.com/@armaansinghbhau8](https://medium.com/@armaansinghbhau8)
+- Discord https://discord.gg/Unt7FXve2W
 
 <!-- - 💬 Ask me about **Data Science, Machine Learning** -->
 
