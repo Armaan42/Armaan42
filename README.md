@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@armaansinghbhau8](https://medium.com/@armaansinghbhau8)
   
-- Discord __https://discord.gg/Unt7FXve2W__
+- 🧩 Discord __https://discord.gg/Unt7FXve2W__
 
 <!-- - 💬 Ask me about **Data Science, Machine Learning** -->
 
